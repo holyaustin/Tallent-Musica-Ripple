@@ -96,7 +96,7 @@ const MintMusic = () => {
     console.log("image ipfs path is", imgViewString);
     setImageView(imgViewString);
     setMetaDataURl(getIPFSGatewayURL(metaData.url));
-    // setTxURL(`https://explorer.testnet.mantle.xyz/tx/${mintNFTTx.hash}`);
+    // setTxURL(`https://evm-sidechain.xrpl.org/tx/${mintNFTTx.hash}`);
     setTxStatus("Talent registration was successfully!");
     console.log("Preview details completed");
   };
@@ -165,7 +165,7 @@ const MintMusic = () => {
             {imageView && (
             <iframe
               className="mb-10"
-              title="Ebook "
+              title="Music"
               src={imageView}
               alt="NFT preview"
               frameBorder="0"

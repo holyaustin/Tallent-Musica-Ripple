@@ -13,13 +13,11 @@ Backend: Solidity, Node.js
 Blockchain : BSC
  
 ## Demo / Live Links
-Live Dapp - https://talent-musica.vercel.app/
+Live Dapp - https://talent-musica-ripple.vercel.app/
 
-Youtube Url: https://youtu.be/6X2J0Yo-p8A
 
-Livepeer stream id: https://livepeer.studio/dashboard/streams/1424bb39-66b6-4bfa-8343-1abb5519c91a
 
-Deployed to BSC Testnet: [0xe078fe7a93017f8e18c1c52e79632d0b94c56c26](https://testnet.bscscan.com/address/0xe078fe7a93017f8e18c1c52e79632d0b94c56c26)
+Deployed to BSC Testnet: [0xe078fe7a93017f8e18c1c52e79632d0b94c56c26](https://evm-sidechain.xrpl.org/address/0x42Fc1d53EcF8B4c46989da0d44f07490668338c8)
 
 
 ## Connect with me and send me a mail

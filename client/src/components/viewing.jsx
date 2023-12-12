@@ -51,7 +51,7 @@ export default function ViewFile() {
   async function Claim() {
     navigate("/dashboard");
   }
-  const rpcUrl = "https://testnet.aurora.dev";
+  const rpcUrl = "https://rpc-evm-sidechain.xrpl.org";
   // const rpcUrl = "localhost";
 
   async function loadMusic() {

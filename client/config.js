@@ -1,3 +1,3 @@
 
-export const talentMusicaAddress = "0x5E4e5347eB417982375Ef9BDe0B77F4322FCF79F";
+export const talentMusicaAddress = "0x42Fc1d53EcF8B4c46989da0d44f07490668338c8";
 

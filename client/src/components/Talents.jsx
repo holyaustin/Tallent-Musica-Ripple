@@ -23,7 +23,7 @@ export default function Talents() {
     return ipfsGateWayURL;
   };
 
-  const rpcUrl = "https://testnet.aurora.dev";
+  const rpcUrl = "https://rpc-evm-sidechain.xrpl.org";
   // const rpcUrl = "http://localhost:8545";
 
   async function loadTalent() {

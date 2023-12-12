@@ -12,7 +12,7 @@ Our goal is to harness the power of blockchain (through decentralizatin) in musi
 
 To put it candidly, data privacy today is a mess. Perhaps the biggest problem currently plaguing data privacy in Web2 is centralization. The corporate entities governing digital transactions and interactions do not always take the most ethical routes when conducting business, much to the chagrin of the general public and in-the-know techies alike. A 2021 poll showed that 80% of Americans are concerned about how companies are using their data, and recent scandals like Facebook-Cambridge Analytica have further proven that centralized authorities can rarely be relied upon.
 
-This project is a Hackathon project sponsored by Encode x Aurora Hackathon. The project aims to create an on-chain music Dapp where young music talents can upload their creation (that are not duplicated or violet copyright laws) and mint it to the talent marketplace as Video NFTs. If users like the music, such artists can be contacted on their Twitter handles or through the wallet chat (XMTP). Producers and Managers who like the creation of any upcoming artiste/talent can get in contact with the talent and sign a contract with him/ her.
+This project is a Hackathon project sponsored by XRPL Siide EVM  Hackathon. The project aims to create an on-chain music Dapp where young music talents can upload their creation (that are not duplicated or violet copyright laws) and mint it to the talent marketplace as Video NFTs. If users like the music, such artists can be contacted on their Twitter handles or through the wallet chat (XMTP). Producers and Managers who like the creation of any upcoming artiste/talent can get in contact with the talent and sign a contract with him/ her.
 
 Zero Knowlwdge proof (ZKP) help to preserve and protect details of artiste and their work.
 
@@ -34,7 +34,7 @@ A platform of trust and privacy preserving talent's work through the integration
 
 ## How to use the DApp
 
-1. Visit the DApp on <https://talent-musica-aurora.vercel.app/>
+1. Visit the DApp on <https://talent-musica-ripple.vercel.app/>
 +2
 
 2. Connect your wallet
@@ -56,13 +56,10 @@ BlockChain: Aurora Testnet
 
 ## Demo / Live Links
 
-Live Dapp - <https://talent-musica-aurora.vercel.app/>
+Live Dapp - <https://talent-musica-ripple.vercel.app/>
 
-Deployed to Aurora: [0xfBeFdC343861EDc521dD2512B4B64B33bB663E4d](https://explorer.testnet.mantle.xyz/address/0xfBeFdC343861EDc521dD2512B4B64B33bB663E4d)
+Deployed to Aurora: [0x42Fc1d53EcF8B4c46989da0d44f07490668338c8](https://evm-sidechain.xrpl.org/address/0x42Fc1d53EcF8B4c46989da0d44f07490668338c8)
 
-Lido Stake: <https://bos.gg/#/adcf7a2b7aa3838071e432721b12eee5f2412e27fcfeed56ade28b0710912d95/widget/Lido_Stake>
-
-ERC20 Sender: <https://bos.gg/#/adcf7a2b7aa3838071e432721b12eee5f2412e27fcfeed56ade28b0710912d95/widget/erc20-sender>
 
 ## Connect with me and send me a mail
 
