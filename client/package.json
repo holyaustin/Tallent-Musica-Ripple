@@ -25,6 +25,7 @@
     "@web3-onboard/core": "^2.2.8",
     "@web3-onboard/injected-wallets": "^2.0.6",
     "@web3-onboard/walletconnect": "^2.0.1",
+    "@web5/api": "^0.8.3",
     "@zoralabs/nft-components": "^1.1.2",
     "@zoralabs/nft-drop-contracts": "^1.0.1",
     "@zoralabs/v3": "^1.0.10",

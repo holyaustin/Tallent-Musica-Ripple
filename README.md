@@ -2,7 +2,9 @@
 
 ## Summary
 
-Talent Musica is a web3 DApp that allows young music talents to upload their songs or performance as NFTs into the Talent Marketplace. Producers, Music Promoters, and other music industry talent scouts can review various videos from talents and contact any talent they love their work.
+Creating A better use-case for Music in the web3 industry. Creators and producers can have a better synergy using the power of web3. New Musical talent can show what they can offer like a recorded contest, which is uploaded to the gallery. The best Talents are contacted by the producers and directors.
+
+Talent Musica revolutionizes the industry by decentralizing control, ensuring fair compensation for artists, and enabling direct fan-artist interactions through blockchain technology.
 
 The core feature of the app is that we don't play middle men. Talents get contacted by music producers who like their work.
 

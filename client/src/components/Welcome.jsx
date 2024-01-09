@@ -7,6 +7,8 @@ import logo1 from "../assets/bg.png";
 import logo2 from "../assets/headphone.jpeg";
 import MoralisLogin from "./moralisLogin.tsx";
 
+
+
 const coinbaseWalletSdk = coinbaseWalletModule();
 const walletConnect = walletConnectModule();
 const injected = injectedModule();
